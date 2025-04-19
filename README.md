@@ -1,6 +1,3 @@
-# CreepyTale-Autosplitters
-LiveSplit autosplitter scripts for Creepy Tale
-
 # Creepy Tale - LiveSplit Autosplitters
 
 This repository contains autosplitter scripts for the game *Creepy Tale*.
